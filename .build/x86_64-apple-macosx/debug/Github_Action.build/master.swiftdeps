@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "7154b4ff68b607890ac1a15c6c517176"
+build_time: [1582808083, 43224000]
+inputs:
+  "/Users/navjotbedi/Work/Samples/Github-Action/Sources/Github-Action/Github_Action.swift": [1582808034, 451639264]

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/navjotbedi/Work/Samples/Github-Action/.build/x86_64-apple-macosx/debug/Github_Action.build/master.swiftdeps"
+  },
+  "/Users/navjotbedi/Work/Samples/Github-Action/Sources/Github-Action/Github_Action.swift": {
+    "dependencies": "/Users/navjotbedi/Work/Samples/Github-Action/.build/x86_64-apple-macosx/debug/Github_Action.build/Github_Action.d",
+    "object": "/Users/navjotbedi/Work/Samples/Github-Action/.build/x86_64-apple-macosx/debug/Github_Action.build/Github_Action.swift.o",
+    "swiftmodule": "/Users/navjotbedi/Work/Samples/Github-Action/.build/x86_64-apple-macosx/debug/Github_Action.build/Github_Action~partial.swiftmodule",
+    "swift-dependencies": "/Users/navjotbedi/Work/Samples/Github-Action/.build/x86_64-apple-macosx/debug/Github_Action.build/Github_Action.swiftdeps"
+  }
+}

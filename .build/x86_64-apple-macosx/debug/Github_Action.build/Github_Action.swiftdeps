@@ -1,0 +1,21 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Github_Action"
+provides-nominal:
+- "13Github_ActionAAV"
+provides-member:
+- ["13Github_ActionAAV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Github_Action"
+- "StringLiteralType"
+depends-member:
+- ["13Github_ActionAAV", "init"]
+- ["13Github_ActionAAV", "text"]
+depends-nominal:
+- "13Github_ActionAAV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+interface-hash: "84011ae0320cc9d690586b6e8d32b7b0"
