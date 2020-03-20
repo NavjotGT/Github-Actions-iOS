@@ -1,0 +1,18 @@
+{
+  "name": "SDK",
+  "version": "1.0",
+  "summary": "Sampel SDK for Github Actions",
+  "homepage": "https://github.com/NavjotGT/Github-Actions-iOS",
+  "license": "Code is MIT, then custom font licenses.",
+  "authors": {
+    "Navjot": "navjot.bedi@groundtruth.com"
+  },
+  "source": {
+    "git": "https://github.com/NavjotGT/Github-Actions-iOS.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SDK/**/*"
+}
