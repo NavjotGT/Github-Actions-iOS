@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "SDK"
-  s.version          = "1.0"
+  s.version          = "1.2"
   s.summary          = "Sampel SDK for Github Actions"
   s.homepage         = "https://github.com/NavjotGT/Github-Actions-iOS"
   s.license          = 'Code is MIT, then custom font licenses.'
