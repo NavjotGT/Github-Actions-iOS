@@ -8,9 +8,12 @@
 
 import Foundation
 
-struct Calculate {
+public class Calculate {
     
-    var x: Int
-    var y: Int
+    public init() {}
+    
+    public func add(x: Int, y: Int) -> Int{
+        return x+y
+    }
     
 }
