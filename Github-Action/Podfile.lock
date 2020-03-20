@@ -1,16 +1,16 @@
 PODS:
-  - SDK (1.0)
+  - SDK (1.2)
 
 DEPENDENCIES:
-  - SDK (from `../`)
+  - SDK (= 1.2)
 
-EXTERNAL SOURCES:
-  SDK:
-    :path: "../"
+SPEC REPOS:
+  https://github.com/NavjotGT/SDK-PodSpecs.git:
+    - SDK
 
 SPEC CHECKSUMS:
-  SDK: f76963d98bd5a6e944cc289bc7e0ad97bf674369
+  SDK: e7da1dfffccf1ff7885060cf3b81d5138fd5f4f7
 
-PODFILE CHECKSUM: 8c27ce9bbec3f72c1d7c435106f8efc33e5628ba
+PODFILE CHECKSUM: c1ee57fc801292f1d9b4569c5bc60270f00b4359
 
 COCOAPODS: 1.9.1
