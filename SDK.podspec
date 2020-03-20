@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "SDK"
+  s.name             = "SDK1010"
   s.version          = "1.2"
   s.summary          = "Sampel SDK for Github Actions"
   s.homepage         = "https://github.com/NavjotGT/Github-Actions-iOS"
